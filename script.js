@@ -17,4 +17,10 @@ homeworks.forEach((homework) => {
     const li = document.createElement('li');
     li.textContent = homework;
     homeworkList.appendChild(li);
+    
+document.getElementById('homework1').addEventListener('click', function() {
+    const link = document.createElement('a');
+    link.href = 'homework1.c';  // Burada dosyanızın doğru yolunu belirtiyoruz
+    link.download = 'homework1.c';  // İndirilen dosyanın adı
+    link.click();
 });
