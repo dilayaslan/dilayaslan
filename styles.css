@@ -40,10 +40,11 @@ header h1 {
 
 
 .download-btn {
-    background-color: #007bff;
+    background-color: #05C0002;
     color: white;
     padding: 15px 30px;
     font-size: 1.2em;
+    font-family: "Times New Roman", Times, serif;
     border: none;
     border-radius: 5px;
     cursor: pointer;
