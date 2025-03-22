@@ -2,6 +2,6 @@ include <stdio.h>
 
 int main()
 {
-  printf("dly");
+  printf("dlay");
   return 0;
 }
