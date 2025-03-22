@@ -11,12 +11,7 @@ const homeworks = [
 // Adınızı HTML'ye ekliyoruz
 document.getElementById('name').textContent = name;
 
-// Ödevlerinizi HTML'ye ekliyoruz
-const homeworkList = document.getElementById('homework-list');
-homeworks.forEach((homework) => {
-    const li = document.createElement('li');
-    li.textContent = homework;
-    homeworkList.appendChild(li);
+
     
 document.getElementById('homework1').addEventListener('click', function() {
     const link = document.createElement('a');
