@@ -39,7 +39,7 @@ header h1 {
 }
 
 
-.download-btn {
+.homework-btn {
     background-color: #5C0002;
     color: white;
     padding: 15px 30px;
@@ -48,60 +48,15 @@ header h1 {
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    margin: 10px;
     transition: background-color 0.3s;
 }
 
-.download-btn:hover {
+.homework-btn:hover {
     background-color: #0056b3;
 }
 
-.download-btn {
-    background-color: #5C0002;
-    color: white;
-    padding: 15px 30px;
-    font-size: 1.2em;
-    font-family: "Times New Roman", Times, serif; /* Yazı Tipini Times New Roman Yapma */
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s;
-}
 
-.download-btn:hover {
-    background-color: #0056b3;
-}
-
-.download-btn {
-    background-color: #5C0002;
-    color: white;
-    padding: 15px 30px;
-    font-size: 1.2em;
-    font-family: "Times New Roman", Times, serif; /* Yazı Tipini Times New Roman Yapma */
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s;
-}
-
-.download-btn:hover {
-    background-color: #0056b3;
-}
-
-.download-btn {
-    background-color: #5C0002;
-    color: white;
-    padding: 15px 30px;
-    font-size: 1.2em;
-    font-family: "Times New Roman", Times, serif; /* Yazı Tipini Times New Roman Yapma */
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s;
-}
-
-.download-btn:hover {
-    background-color: #0056b3;
-}
 
 footer {
     text-align: center;
