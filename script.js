@@ -1,5 +1,5 @@
 // Kendi adınızı buraya yazın
-const name = "Dilay Aslan";
+const name = "Dilay Aslan!";
 
 // Yaptığınız ödevlerin listesini buraya ekleyin
 const homeworks = [
