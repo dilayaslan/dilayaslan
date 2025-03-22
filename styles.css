@@ -5,9 +5,9 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Times New Roman", Times, serif;
     background-color: #F6D1D1;
-    color: #333;
+    color: #5C0002;
     display: flex;
     justify-content: center;
     align-items: center;
